@@ -1,4 +1,4 @@
 hudson3-plugins
 ===============
 
-All Plugins for Hudson 3 release - https://github.com/hudson3-plugins
+<h4> All Plugins specific to Hudson 3.x releases are available at https://github.com/hudson3-plugins </h4>
